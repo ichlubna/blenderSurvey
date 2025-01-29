@@ -15,17 +15,17 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 ### Papers and literature
 
 ### Web articles
-[Blender Fund with many big companies as the contributors](https://fund.blender.org)
-[Official reports of user stores with Blender](https://www.blender.org/user-stories/)
-[Blender’s impact in film](https://www.blender.org/news/blenders-impact-in-film/)
-[Lights Out (2016) film](https://openvisualfx.com/2017/06/16/interview-with-david-f-sandberg/)
-[Wonder Woman (2017) film](https://www.artofthetitle.com/title/wonder-woman/)
-[Spider-Man: Across the Spider-Verse (2023) film](https://www.blendernation.com/2023/06/11/blender-used-in-across-the-spiderverse/)
-[Blender Open Movies](https://studio.blender.org/films/)
+[Blender Fund with many big companies as the contributors](https://fund.blender.org)  
+[Official reports of user stores with Blender](https://www.blender.org/user-stories/)  
+[Blender’s impact in film](https://www.blender.org/news/blenders-impact-in-film/)  
+[Lights Out (2016) film](https://openvisualfx.com/2017/06/16/interview-with-david-f-sandberg/)  
+[Wonder Woman (2017) film](https://www.artofthetitle.com/title/wonder-woman/)  
+[Spider-Man: Across the Spider-Verse (2023) film](https://www.blendernation.com/2023/06/11/blender-used-in-across-the-spiderverse/)  
+[Blender Open Movies](https://studio.blender.org/films/)  
 []()
 
 ### Addons
-[Looking Glass Factory 3D display support](https://lookingglassfactory.com/blender-add-on)
-[Voxon volumetric display support](https://voxon.co/volumetric-display-add-on-for-blender/)
-[Sketchfab integration](https://github.com/sketchfab/blender-plugin)
-[Rokoko motion capture suit support](https://github.com/Rokoko/rokoko-studio-live-blender)
+[Looking Glass Factory 3D display support](https://lookingglassfactory.com/blender-add-on)  
+[Voxon volumetric display support](https://voxon.co/volumetric-display-add-on-for-blender/)  
+[Sketchfab integration](https://github.com/sketchfab/blender-plugin)  
+[Rokoko motion capture suit support](https://github.com/Rokoko/rokoko-studio-live-blender)  
