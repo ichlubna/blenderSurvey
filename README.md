@@ -15,14 +15,26 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 ### Papers and literature
 
 ### Web articles
+[Blender-Archipack](https://blender-archipack.org)  
+[BlenderBIM](https://blenderbim.org)  
+
+#### Films
 [Blender Fund with many big companies as the contributors](https://fund.blender.org)  
 [Official reports of user stores with Blender](https://www.blender.org/user-stories/)  
 [Blender’s impact in film](https://www.blender.org/news/blenders-impact-in-film/)  
-[Lights Out (2016) film](https://openvisualfx.com/2017/06/16/interview-with-david-f-sandberg/)  
-[Wonder Woman (2017) film](https://www.artofthetitle.com/title/wonder-woman/)  
-[Spider-Man: Across the Spider-Verse (2023) film](https://www.blendernation.com/2023/06/11/blender-used-in-across-the-spiderverse/)  
+[Lights Out (2016)](https://openvisualfx.com/2017/06/16/interview-with-david-f-sandberg/)  
+[Wonder Woman (2017)](https://www.artofthetitle.com/title/wonder-woman/)  
+[Spider-Man: Across the Spider-Verse (2023)](https://www.blendernation.com/2023/06/11/blender-used-in-across-the-spiderverse/)  
 [Blender Open Movies](https://studio.blender.org/films/)  
-[]()
+
+#### Games
+[Embark Studios tools](https://github.com/EmbarkStudios/blender-tools)  
+[Ubisoft tools](https://github.com/ubisoft/mixer)  
+[ArtsStation posts](https://www.artstation.com/ch/blender)  
+[Alan Wake 2 and Marathon](https://www.blendernation.com/2023/06/21/blender-used-in-high-profile-games-alan-wake-2-and-marathon/)  
+[Rocket League](https://cgcookie.com/posts/how-rocket-league-artists-use-blender-for-game-production)  
+[Moby Games](https://www.mobygames.com/group/14255/game-engine-blender/)  
+[Istudios Visuals](https://conference.blender.org/2019/presentations/549/)  
 
 ### Addons
 [Looking Glass Factory 3D display support](https://lookingglassfactory.com/blender-add-on)  
