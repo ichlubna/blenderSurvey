@@ -5,11 +5,23 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 ### Papers and literature
 
 ### Web articles
+[Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
+
+
+### Addons
+[Pixel Manager containing new color profiles](https://github.com/Joegenco/PixelManager)  
+[Stable Diffusion](https://github.com/Stability-AI/stability-blender-addon-public/)  
 
 ## Academia
 ### Papers and literature
 
 ### Web articles
+[List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
+
+### Addons
+[Blender Slides](https://blendermarket.com/products/blenderslides)  
+[Data Visualization](https://github.com/Griperis/BlenderDataVis)  
+[Latex math equations](https://github.com/kstrenkova/mathematical-equations)
 
 ## Industry
 ### Papers and literature
