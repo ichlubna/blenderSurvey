@@ -93,6 +93,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [FRELLED Reloaded: Multiple techniques for astronomical data visualisation in Blender](https://doi.org/https://arxiv.org/abs/2501.02919)  
 [Visual Noise Mask for Human Point-Light Displays: A Coding-Free Approach](https://doi.org/10.3390/neurosci6010002)  
 [Microscopy Nodes: versatile 3D microscopy visualization with Blender](https://doi.org/10.1101/2025.01.09.632153)  
+[VisionBlender: a tool to efficiently generate computer vision datasets for robotic surgery](https://doi.org/10.1080/21681163.2020.1835546)  
 
 
 ### Web articles
