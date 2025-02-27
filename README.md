@@ -230,8 +230,8 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Enhancing Spatial Awareness and Collaboration: A Guide to VR-Ready Survey Data Transformation](https://doi.org/10.3390/ijgi14020059)  
 [A Low-Cost Workflow to Generate Virtual and Physical Three-Dimensional Models of Cardiac Structures](https://doi.org/10.1177/21501351241293305)  
 [Creating 3D models of production equipment and infrastructure using Blender](https://ideas.repec.org/a/aac/ijirss/v8y2025i1p1572-1588id4704.html)  
-[An alternative approach to code, store, and regenerate 3D data in dental medicine using open-source software: A scripting-based technique](https://doi.org/10.1016/j.jdent.2025.105652)
-[Real-Time Stringing Detection for Additive Manufacturing](https://doi.org/10.3390/jmmp9030074)
+[An alternative approach to code, store, and regenerate 3D data in dental medicine using open-source software: A scripting-based technique](https://doi.org/10.1016/j.jdent.2025.105652)  
+[Real-Time Stringing Detection for Additive Manufacturing](https://doi.org/10.3390/jmmp9030074)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
