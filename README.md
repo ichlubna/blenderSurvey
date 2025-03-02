@@ -232,6 +232,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Creating 3D models of production equipment and infrastructure using Blender](https://ideas.repec.org/a/aac/ijirss/v8y2025i1p1572-1588id4704.html)  
 [An alternative approach to code, store, and regenerate 3D data in dental medicine using open-source software: A scripting-based technique](https://doi.org/10.1016/j.jdent.2025.105652)  
 [Real-Time Stringing Detection for Additive Manufacturing](https://doi.org/10.3390/jmmp9030074)  
+[LoDCalculator: A level of detail classification software for 3D models in the Blender environment](https://doi.org/10.1016/j.softx.2025.102107)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
