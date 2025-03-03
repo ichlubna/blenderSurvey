@@ -246,6 +246,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Wonder Woman (2017)](https://www.artofthetitle.com/title/wonder-woman/)  
 [Spider-Man: Across the Spider-Verse (2023)](https://www.blendernation.com/2023/06/11/blender-used-in-across-the-spiderverse/)  
 [Blender Open Movies](https://studio.blender.org/films/)  
+[Making (Oscar Awarded) Flow – Interview with director Gints Zilbalodis](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)  
 
 #### Games
 [Embark Studios tools](https://github.com/EmbarkStudios/blender-tools)  
