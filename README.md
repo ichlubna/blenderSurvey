@@ -238,7 +238,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
-[The State of the Arts - Linux Tools for the Graphic Artist](ttps://www.usenix.org/conference/als-2000/state-arts-linux-tools-graphic-artist)  
+[The State of the Arts - Linux Tools for the Graphic Artist](https://www.usenix.org/conference/als-2000/state-arts-linux-tools-graphic-artist)  
 
 #### Films
 [Blender Fund with many big companies as the contributors](https://fund.blender.org)  
