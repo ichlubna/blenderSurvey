@@ -94,6 +94,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Visual Noise Mask for Human Point-Light Displays: A Coding-Free Approach](https://doi.org/10.3390/neurosci6010002)  
 [Microscopy Nodes: versatile 3D microscopy visualization with Blender](https://doi.org/10.1101/2025.01.09.632153)  
 [VisionBlender: a tool to efficiently generate computer vision datasets for robotic surgery](https://doi.org/10.1080/21681163.2020.1835546)  
+[Solid state volumetric display projecting 3D objects in space](https://doi.org/10.1117/12.430822)  
 
 
 ### Web articles
@@ -233,10 +234,11 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [An alternative approach to code, store, and regenerate 3D data in dental medicine using open-source software: A scripting-based technique](https://doi.org/10.1016/j.jdent.2025.105652)  
 [Real-Time Stringing Detection for Additive Manufacturing](https://doi.org/10.3390/jmmp9030074)  
 [LoDCalculator: A level of detail classification software for 3D models in the Blender environment](https://doi.org/10.1016/j.softx.2025.102107)  
+[BIM-FM integration through openBIM: Solutions for interoperability towards efficient operations](https://doi.org/10.36680/j.itcon.2025.012)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
-[BlenderBIM](https://blenderbim.org)  
+[The State of the Arts - Linux Tools for the Graphic Artist](ttps://www.usenix.org/conference/als-2000/state-arts-linux-tools-graphic-artist)  
 
 #### Films
 [Blender Fund with many big companies as the contributors](https://fund.blender.org)  
