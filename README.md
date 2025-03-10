@@ -97,6 +97,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Solid state volumetric display projecting 3D objects in space](https://doi.org/10.1117/12.430822)  
 [MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization](https://doi.org/10.48550/arXiv.2502.07754)  
 [The path-tracing simulation of light-field camera system: SurfCam/GrainCams for lunar surface exploration](https://doi.org/10.1016/j.asr.2024.12.029)  
+[Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation](https://doi.org/10.48550/arXiv.2502.14247)  
 
 
 ### Web articles
