@@ -100,6 +100,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation](https://doi.org/10.48550/arXiv.2502.14247)  
 [Blender as a tool for palaeoichnological research: Case study from Lark Quarry](https://doi.org/10.1016/j.geobios.2024.11.002)  
 [BFEX: A Toolbox for Finite Element Analysis With Fossils and Blender](https://doi.org/10.1002/ece3.71093)  
+[Blender tissue cartography: an intuitive tool for the analysis of dynamic 3D microscopy data](https://doi.org/10.1101/2025.02.04.636523)  
 
 
 ### Web articles
