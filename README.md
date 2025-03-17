@@ -98,6 +98,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization](https://doi.org/10.48550/arXiv.2502.07754)  
 [The path-tracing simulation of light-field camera system: SurfCam/GrainCams for lunar surface exploration](https://doi.org/10.1016/j.asr.2024.12.029)  
 [Pandora3D: A Comprehensive Framework for High-Quality 3D Shape and Texture Generation](https://doi.org/10.48550/arXiv.2502.14247)  
+[Blender as a tool for palaeoichnological research: Case study from Lark Quarry](https://doi.org/10.1016/j.geobios.2024.11.002)  
 
 
 ### Web articles
@@ -147,6 +148,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Using Free Software in Higher Education for Creative Purposes: The Case of OpenLab ESEV](https://doi.org/10400.19/519)  
 [A Parametric Model Student Assignment Using Blender Open Source 3D Modelling Software](https://doi.org/10.21125/edulearn.2024.2576)  
 [Construction of a 3D model of an University Campus for Easing New Visitor Navigation around the Campus using Blender and Three.js](https://doi.org/10.1109/ICEEICT61591.2024.10718381)  
+[Anatomy education potential of the first digital twin of a Korean cadaver](https://doi.org/10.1371/journal.pone.0305679)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
