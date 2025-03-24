@@ -101,7 +101,8 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Blender as a tool for palaeoichnological research: Case study from Lark Quarry](https://doi.org/10.1016/j.geobios.2024.11.002)  
 [BFEX: A Toolbox for Finite Element Analysis With Fossils and Blender](https://doi.org/10.1002/ece3.71093)  
 [Blender tissue cartography: an intuitive tool for the analysis of dynamic 3D microscopy data](https://doi.org/10.1101/2025.02.04.636523)  
-
+[Automated Generation of Parking Data Sets for Underground Car Parks](https://doi.org/10.4271/2025-01-7191)  
+[Monocular lensless depth camera driven by end-to-end deep learning with a synthetic dataset](https://doi.org/10.1117/12.3039097)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
@@ -243,6 +244,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [LoDCalculator: A level of detail classification software for 3D models in the Blender environment](https://doi.org/10.1016/j.softx.2025.102107)  
 [BIM-FM integration through openBIM: Solutions for interoperability towards efficient operations](https://doi.org/10.36680/j.itcon.2025.012)  
 [Procedural Point Cloud and Mesh Editing for Urban Planning Using Blender](https://doi.org/10.20944/preprints202503.0171.v1)  
+[Advanced Techniques for Fusion Data Visualisation](https://doi.org/10.3389/fphy.2025.1569248)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
@@ -295,3 +297,6 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [The analysis of Blender open-source software cloth simulation capabilities](https://doi.org/10.35784/jcsi.3091)  
 [Dynamic simulation in a 3D-environment: A comparison between Maya and Blender](https://urn.kb.se/resolve?urn=urn:nbn:se:hig:diva-7871)  
 [2.5D Simulated Keyframe Animation in Blender](https://doi.org/10.1145/3474349.3480222)  
+
+### Web articles
+[State of 3D 2024 Survey](https://www.poliigon.com/articles/state-of-3d-2024)  
