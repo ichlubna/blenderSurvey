@@ -103,6 +103,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Blender tissue cartography: an intuitive tool for the analysis of dynamic 3D microscopy data](https://doi.org/10.1101/2025.02.04.636523)  
 [Automated Generation of Parking Data Sets for Underground Car Parks](https://doi.org/10.4271/2025-01-7191)  
 [Monocular lensless depth camera driven by end-to-end deep learning with a synthetic dataset](https://doi.org/10.1117/12.3039097)  
+[Differentiable rendering for 3-dimensional reconstruction of laser-induced tissue ablation](https://doi.org/10.1117/12.3043685)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
