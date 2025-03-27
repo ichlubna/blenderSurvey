@@ -153,6 +153,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [A Parametric Model Student Assignment Using Blender Open Source 3D Modelling Software](https://doi.org/10.21125/edulearn.2024.2576)  
 [Construction of a 3D model of an University Campus for Easing New Visitor Navigation around the Campus using Blender and Three.js](https://doi.org/10.1109/ICEEICT61591.2024.10718381)  
 [Anatomy education potential of the first digital twin of a Korean cadaver](https://doi.org/10.1371/journal.pone.0305679)  
+[Physics-Based Tool Usage Simulations in VR](https://doi.org/10.3390/mti9040029)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
