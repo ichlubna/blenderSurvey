@@ -248,6 +248,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [BIM-FM integration through openBIM: Solutions for interoperability towards efficient operations](https://doi.org/10.36680/j.itcon.2025.012)  
 [Procedural Point Cloud and Mesh Editing for Urban Planning Using Blender](https://doi.org/10.20944/preprints202503.0171.v1)  
 [Advanced Techniques for Fusion Data Visualisation](https://doi.org/10.3389/fphy.2025.1569248)  
+[Laborious Aesthetics: Visible and Invisible Labor in the Spider-Verse franchise](https://doi.org/10.1177/17468477251319942)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
