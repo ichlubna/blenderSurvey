@@ -157,6 +157,10 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Physics-Based Tool Usage Simulations in VR](https://doi.org/10.3390/mti9040029)  
 [Enhancing Healthcare Education Through VR: A Pilot Usability Study](https://www.repository.cam.ac.uk/bitstreams/80181158-dd84-43e2-82bf-ca609d1599b4/download#page=37)  
 [Interactive augmented reality application using animal flashcards for education of children](https://doi.org/10.1080/10494820.2025.2479163)  
+[Development of Classical Guidance Service Based on Social and Emotional Learning (SEL) to Improve the Intrapersonal Aspects of Student’s Learning](https://doi.org/10.31004/jele.v10i2.683)  
+[Effects of artificial intelligence and virtual reality interventions in art therapy among older people with mild cognitive impairment](https://doi.org/10.1111/ajag.70006)  
+[An interactive mobile three-dimensional virtual laboratory for learning ear anatomy](https://doi.org/10.1186/s40561-025-00371-8)  
+[Augemented Learning Media Design At SMKN 8 Padang](https://doi.org/10.18782/ijeclxx-xx)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
