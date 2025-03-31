@@ -290,6 +290,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 ### Papers and literature
 [Comparing 3D Rendering Engines in Blender](https://doi.org/10.1109/ICOSEC51865.2021.9591800)  
 [The Comparison Between 3D Studio Max and Blender Based on Software Qualities](https://doi.org/10.1088/1742-6596/1387/1/012030)  
+[Comparison of modification of cube and cylinder shapes using AutoCAD and Blender software](https://doi.org/10.1063/5.0254405)  
 [Comparison of the Use of Blender and Sketchup Applications in 3d Animation (Case Study: PT Rico Putra Selatan](https://doi.org/10.53697/jkomitek.v2i2.1011)  
 [Comparison of Time, Size and Quality of 3D Object Rendering Using Render Engine Eevee and Cycles in Blender](https://doi.org/10.1109/IC2IE56416.2022.9970186)  
 [A 3D Authoring Method by Editing Real World Scene](https://doi.org/10.1109/CISIS.2014.45)  
