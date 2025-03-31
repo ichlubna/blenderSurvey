@@ -156,6 +156,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Anatomy education potential of the first digital twin of a Korean cadaver](https://doi.org/10.1371/journal.pone.0305679)  
 [Physics-Based Tool Usage Simulations in VR](https://doi.org/10.3390/mti9040029)  
 [Enhancing Healthcare Education Through VR: A Pilot Usability Study](https://www.repository.cam.ac.uk/bitstreams/80181158-dd84-43e2-82bf-ca609d1599b4/download#page=37)  
+[Interactive augmented reality application using animal flashcards for education of children](https://doi.org/10.1080/10494820.2025.2479163)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
@@ -250,6 +251,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Procedural Point Cloud and Mesh Editing for Urban Planning Using Blender](https://doi.org/10.20944/preprints202503.0171.v1)  
 [Advanced Techniques for Fusion Data Visualisation](https://doi.org/10.3389/fphy.2025.1569248)  
 [Laborious Aesthetics: Visible and Invisible Labor in the Spider-Verse franchise](https://doi.org/10.1177/17468477251319942)  
+[Integration of 4D BIM and Robot Task Planning: Creation and Flow of Construction-Related Information for Action-Level Simulation of Indoor Wall Frame Installation](https://doi.org/10.36680/j.itcon.2025.015)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
