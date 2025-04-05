@@ -106,6 +106,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Differentiable rendering for 3-dimensional reconstruction of laser-induced tissue ablation](https://doi.org/10.1117/12.3043685)  
 [Evaluation of the Dosimetric Influence of a Pacemaker on Breast Cancer Radiotherapy: A Monte Carlo Study](https://doi.org/10.1016/j.radphyschem.2025.112763)  
 [Perspective distortion correction in a compact, full-color holographic stereogram printer](https://doi.org/10.1016/j.displa.2025.103051)  
+[BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing](https://doi.org/10.48550/arXiv.2504.01786)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
