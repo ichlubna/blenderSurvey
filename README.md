@@ -109,6 +109,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing](https://doi.org/10.48550/arXiv.2504.01786)  
 [Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://dorverbin.github.io/refnerf/)  
 [NeRF: representing scenes as neural radiance fields for view synthesis](https://doi.org/10.1145/3503250)  
+[Development of an augmented reality framework for corn plant disease identification using CNN algorithm](https://doi.org/10.1063/5.0262601)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
