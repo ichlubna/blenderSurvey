@@ -167,6 +167,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [An interactive mobile three-dimensional virtual laboratory for learning ear anatomy](https://doi.org/10.1186/s40561-025-00371-8)  
 [Augemented Learning Media Design At SMKN 8 Padang](https://doi.org/10.18782/ijeclxx-xx)  
 [Design of Learning Media for the Application of Electronic Circuits](https://doi.org/10.24036/voteteknika.v13i1.133305)  
+[Design Research on AI-Driven Virtual Teachers](https://doi.org/10.7236/IJIBC.2025.17.1.94)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
