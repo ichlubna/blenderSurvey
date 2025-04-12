@@ -168,6 +168,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Augemented Learning Media Design At SMKN 8 Padang](https://doi.org/10.18782/ijeclxx-xx)  
 [Design of Learning Media for the Application of Electronic Circuits](https://doi.org/10.24036/voteteknika.v13i1.133305)  
 [Design Research on AI-Driven Virtual Teachers](https://doi.org/10.7236/IJIBC.2025.17.1.94)  
+[Development of anatomically accurate digital organ models for surgical simulation and training](https://doi.org/10.1371/journal.pone.0320816)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
@@ -263,6 +264,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Advanced Techniques for Fusion Data Visualisation](https://doi.org/10.3389/fphy.2025.1569248)  
 [Laborious Aesthetics: Visible and Invisible Labor in the Spider-Verse franchise](https://doi.org/10.1177/17468477251319942)  
 [Integration of 4D BIM and Robot Task Planning: Creation and Flow of Construction-Related Information for Action-Level Simulation of Indoor Wall Frame Installation](https://doi.org/10.36680/j.itcon.2025.015)  
+[How to create a virtual and printed three-dimensional model of a complex fistula-in-ano](https://doi.org/10.1111/ans.70129)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
