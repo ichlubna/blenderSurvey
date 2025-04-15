@@ -169,6 +169,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Design of Learning Media for the Application of Electronic Circuits](https://doi.org/10.24036/voteteknika.v13i1.133305)  
 [Design Research on AI-Driven Virtual Teachers](https://doi.org/10.7236/IJIBC.2025.17.1.94)  
 [Development of anatomically accurate digital organ models for surgical simulation and training](https://doi.org/10.1371/journal.pone.0320816)  
+[Enhancing Antarctic knowledge through virtual reality: The virtual polar expedition application](https://pedapub.com/editorial/index.php/emerging-learning-technologies/article/view/18)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
@@ -265,6 +266,8 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Laborious Aesthetics: Visible and Invisible Labor in the Spider-Verse franchise](https://doi.org/10.1177/17468477251319942)  
 [Integration of 4D BIM and Robot Task Planning: Creation and Flow of Construction-Related Information for Action-Level Simulation of Indoor Wall Frame Installation](https://doi.org/10.36680/j.itcon.2025.015)  
 [How to create a virtual and printed three-dimensional model of a complex fistula-in-ano](https://doi.org/10.1111/ans.70129)  
+[Revitalizing Cultural Heritage Through Augmented Reality: Lessons from the Ashoka Pillar](https://doi.org/10.1109/ICAICCIT64383.2024.10912142)  
+[Gestural Interactions and Generative Environments in Immersive Performances](https://doi.org/10.1007/978-3-031-77566-6_7)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
@@ -318,6 +321,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [The analysis of Blender open-source software cloth simulation capabilities](https://doi.org/10.35784/jcsi.3091)  
 [Dynamic simulation in a 3D-environment: A comparison between Maya and Blender](https://urn.kb.se/resolve?urn=urn:nbn:se:hig:diva-7871)  
 [2.5D Simulated Keyframe Animation in Blender](https://doi.org/10.1145/3474349.3480222)  
+[Research Result Differences Between Manual Research and Using AI LLMs for Analyzing Popular 3D File Formats](https://doi.org/10.18421/TEM134-02) 
 
 ### Web articles
 [State of 3D 2024 Survey](https://www.poliigon.com/articles/state-of-3d-2024)  
