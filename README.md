@@ -170,6 +170,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Design Research on AI-Driven Virtual Teachers](https://doi.org/10.7236/IJIBC.2025.17.1.94)  
 [Development of anatomically accurate digital organ models for surgical simulation and training](https://doi.org/10.1371/journal.pone.0320816)  
 [Enhancing Antarctic knowledge through virtual reality: The virtual polar expedition application](https://pedapub.com/editorial/index.php/emerging-learning-technologies/article/view/18)  
+[How is Augmented Reality Developed in Physics Education? A Review with NVivo from 2019-2024](https://doi.org/10.23960/jpmipa/v25i2.pp582-600)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
@@ -268,6 +269,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [How to create a virtual and printed three-dimensional model of a complex fistula-in-ano](https://doi.org/10.1111/ans.70129)  
 [Revitalizing Cultural Heritage Through Augmented Reality: Lessons from the Ashoka Pillar](https://doi.org/10.1109/ICAICCIT64383.2024.10912142)  
 [Gestural Interactions and Generative Environments in Immersive Performances](https://doi.org/10.1007/978-3-031-77566-6_7)  
+[Convergence of Art and Technology in Character and Space Design with Blender](https://doi.org/10.62425/at.1478021)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
