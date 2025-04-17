@@ -270,6 +270,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Revitalizing Cultural Heritage Through Augmented Reality: Lessons from the Ashoka Pillar](https://doi.org/10.1109/ICAICCIT64383.2024.10912142)  
 [Gestural Interactions and Generative Environments in Immersive Performances](https://doi.org/10.1007/978-3-031-77566-6_7)  
 [Convergence of Art and Technology in Character and Space Design with Blender](https://doi.org/10.62425/at.1478021)  
+[Jaw motion tracking with open-source tools: A dental technique](https://doi.org/10.1016/j.prosdent.2025.03.032)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
