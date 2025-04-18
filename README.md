@@ -171,6 +171,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Development of anatomically accurate digital organ models for surgical simulation and training](https://doi.org/10.1371/journal.pone.0320816)  
 [Enhancing Antarctic knowledge through virtual reality: The virtual polar expedition application](https://pedapub.com/editorial/index.php/emerging-learning-technologies/article/view/18)  
 [How is Augmented Reality Developed in Physics Education? A Review with NVivo from 2019-2024](https://doi.org/10.23960/jpmipa/v25i2.pp582-600)  
+[Toward AR Visualization of the Fluid-Mosaic Model of the Cell Membrane](https://scholars.fhsu.edu/sacad/vol2025/iss2025/26)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
