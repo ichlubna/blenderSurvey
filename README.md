@@ -174,6 +174,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [How is Augmented Reality Developed in Physics Education? A Review with NVivo from 2019-2024](https://doi.org/10.23960/jpmipa/v25i2.pp582-600)  
 [Toward AR Visualization of the Fluid-Mosaic Model of the Cell Membrane](https://scholars.fhsu.edu/sacad/vol2025/iss2025/26)  
 [Development of Android-based Solar System Interactive Learning Application Using Augmented Reality with Unity and Blender](https://journal.ummat.ac.id/index.php/issrectec/article/view/30494)  
+[Pengembangan Pembelajaran Perakitan PC Berbasis Augmented Reality](https://doi.org/10.24269/jkt.v9i1.3231)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
