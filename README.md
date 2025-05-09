@@ -175,6 +175,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Toward AR Visualization of the Fluid-Mosaic Model of the Cell Membrane](https://scholars.fhsu.edu/sacad/vol2025/iss2025/26)  
 [Development of Android-based Solar System Interactive Learning Application Using Augmented Reality with Unity and Blender](https://journal.ummat.ac.id/index.php/issrectec/article/view/30494)  
 [Pengembangan Pembelajaran Perakitan PC Berbasis Augmented Reality](https://doi.org/10.24269/jkt.v9i1.3231)  
+[Implementation of the MDLC Method in the Development of Android-Based Augmented Reality for Traditional House Recognition](https://doi.org/10.31763/iota.v5i2.903)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
