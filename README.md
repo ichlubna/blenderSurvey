@@ -277,6 +277,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Convergence of Art and Technology in Character and Space Design with Blender](https://doi.org/10.62425/at.1478021)  
 [Jaw motion tracking with open-source tools: A dental technique](https://doi.org/10.1016/j.prosdent.2025.03.032)  
 [Three-Dimensional Modeling of the La Pastora Dolmen in Valencina de la Concepción, Seville, Using Photogrammetric Techniques](https://doi.org/10.1016/j.daach.2025.e00417)  
+[An Open-Source Tool for Converting 3D Mesh volumes into Synthetic DICOM CT Images for Medical Physics Research](https://doi.org/10.21203/rs.3.rs-6356394/v1)  
 
 ### Web articles
 [Blender-Archipack](https://blender-archipack.org)  
