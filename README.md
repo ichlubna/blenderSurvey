@@ -111,6 +111,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [NeRF: representing scenes as neural radiance fields for view synthesis](https://doi.org/10.1145/3503250)  
 [Development of an augmented reality framework for corn plant disease identification using CNN algorithm](https://doi.org/10.1063/5.0262601)  
 [ACSim: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling and Ground Truthing](https://doi.org/10.1109/TRO.2025.3562048)  
+[Investigating metabolic changes associated with obesity in the model organism, Danio rerio](https://doi.org/10.1152/physiol.2025.40.S1.0049)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
