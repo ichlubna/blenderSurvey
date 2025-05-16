@@ -177,6 +177,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Development of Android-based Solar System Interactive Learning Application Using Augmented Reality with Unity and Blender](https://journal.ummat.ac.id/index.php/issrectec/article/view/30494)  
 [Pengembangan Pembelajaran Perakitan PC Berbasis Augmented Reality](https://doi.org/10.24269/jkt.v9i1.3231)  
 [Implementation of the MDLC Method in the Development of Android-Based Augmented Reality for Traditional House Recognition](https://doi.org/10.31763/iota.v5i2.903)  
+[VRTMS: A 3D-Virtual Reality Training and Maintenance System as a Modular Cognitive Approach to a Prototype Infrared Computed Tomography Machine Assembly](https://doi.org/10.20944/preprints202505.0899.v1)  
 
 ### Web articles
 [List with bachelor's and master's theses on Blender add-on at FIT BUT](https://www.vut.cz/en/students/final-thesis?action_name=zform&formID=search_zav_praci&rok=&nazev=blender)  
