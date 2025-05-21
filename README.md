@@ -304,6 +304,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Rocket League](https://cgcookie.com/posts/how-rocket-league-artists-use-blender-for-game-production)  
 [Moby Games](https://www.mobygames.com/group/14255/game-engine-blender/)  
 [Istudios Visuals](https://conference.blender.org/2019/presentations/549/)  
+[Dogwalk (Blender & Godot Engine game)](https://studio.blender.org/projects/project-dogwalk/)  
 
 ### Addons
 [Looking Glass Factory 3D display support](https://lookingglassfactory.com/blender-add-on)  
