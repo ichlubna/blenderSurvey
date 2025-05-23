@@ -335,8 +335,8 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [The analysis of Blender open-source software cloth simulation capabilities](https://doi.org/10.35784/jcsi.3091)  
 [Dynamic simulation in a 3D-environment: A comparison between Maya and Blender](https://urn.kb.se/resolve?urn=urn:nbn:se:hig:diva-7871)  
 [2.5D Simulated Keyframe Animation in Blender](https://doi.org/10.1145/3474349.3480222)  
-[Research Result Differences Between Manual Research and Using AI LLMs for Analyzing Popular 3D File Formats](https://doi.org/10.18421/TEM134-02) 
-[A Comparative Study of EmberGen and Blender in Fire Explosion Simulations](https://doi.org/10.32736/sisfokom.v14i2.2335) 
+[Research Result Differences Between Manual Research and Using AI LLMs for Analyzing Popular 3D File Formats](https://doi.org/10.18421/TEM134-02)  
+[A Comparative Study of EmberGen and Blender in Fire Explosion Simulations](https://doi.org/10.32736/sisfokom.v14i2.2335)  
 
 ### Web articles
 [State of 3D 2024 Survey](https://www.poliigon.com/articles/state-of-3d-2024)  
