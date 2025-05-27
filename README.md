@@ -340,3 +340,4 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 
 ### Web articles
 [State of 3D 2024 Survey](https://www.poliigon.com/articles/state-of-3d-2024)  
+[Official Blender Survey 2024](https://survey.blender.org)  
