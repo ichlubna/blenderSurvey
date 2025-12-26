@@ -1,1 +1,16 @@
-todo
+﻿@Article{Chlubna2025Blender,
+author={Chlubna, T.
+and Vlnas, M.
+and Milet, T.
+and Zem{\v{c}}{\'i}k, P.},
+title={Survey of FOSS 3D/2D graphics software blender usage in science, academia, and industry},
+journal={The Visual Computer},
+year={2025},
+month={12},
+day={26},
+volume={42},
+number={1},
+pages={95},
+issn={1432-2315},
+doi={10.1007/s00371-025-04281-1}
+}
