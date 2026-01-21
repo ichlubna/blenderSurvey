@@ -1,7 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-type: article
-title: "Survey of FOSS 3D/2D graphics software blender usage in science, academia, and industry"
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+type: software
+title: Survey of FOSS 3D/2D graphics software blender usage in science, academia, and industry
+version: 1.0.0
+doi: 10.1007/s00371-025-04281-1
+date-released: "2025-01-21"
+
 authors:
   - family-names: Chlubna
     given-names: T.
@@ -11,10 +15,24 @@ authors:
     given-names: T.
   - family-names: Zemčík
     given-names: P.
-journal-title: "The Visual Computer"
-volume: "42"
-issue: "1"
-pages: "95"
-date-published: "2025-12-26"
-doi: "10.1007/s00371-025-04281-1"
-issn: "1432-2315"
+
+preferred-citation:
+  type: article-journal
+  title: Survey of FOSS 3D/2D graphics software blender usage in science, academia, and industry
+  authors:
+    - family-names: Chlubna
+      given-names: T.
+    - family-names: Vlnas
+      given-names: M.
+    - family-names: Milet
+      given-names: T.
+    - family-names: Zemčík
+      given-names: P.
+  journal-title: The Visual Computer
+  volume: "42"
+  issue: "1"
+  pages: "95"
+  year: "2025"
+  date-published: "2025-12-26"
+  doi: 10.1007/s00371-025-04281-1
+  issn: "1432-2315"
