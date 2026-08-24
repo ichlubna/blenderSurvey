@@ -114,6 +114,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Development of an augmented reality framework for corn plant disease identification using CNN algorithm](https://doi.org/10.1063/5.0262601)  
 [ACSim: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling and Ground Truthing](https://doi.org/10.1109/TRO.2025.3562048)  
 [Investigating metabolic changes associated with obesity in the model organism, Danio rerio](https://doi.org/10.1152/physiol.2025.40.S1.0049)  
+[OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender](https://doi.org/10.1109/ACCESS.2025.3638850)  
 
 ### Web articles
 [Blender Demo Files often used in datasets](https://www.blender.org/download/demo-files/)  
