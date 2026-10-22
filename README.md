@@ -124,6 +124,7 @@ This is a curated list of the literature, scientific papers, blog posts and arti
 [Pixel Manager containing new color profiles](https://github.com/Joegenco/PixelManager)  
 [Stable Diffusion](https://github.com/Stability-AI/stability-blender-addon-public/)  
 [Blender Optics Simulator](https://github.com/emircbngl/blender-optics-simulator)  
+[Molecular Animation](https://github.com/AmadeusBio-ai/Molecular_Animation)  
 
 ## Academia
 ### Papers and literature
